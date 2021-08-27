@@ -1,0 +1,38 @@
+.bottom {
+    height: 108px;
+    background-color: #363636;
+    text-align: center;
+    color: #747474;
+    font-size: 12px;
+    padding-top: 30px;
+}
+
+ul li {
+    margin: 0 auto;
+    display: inline-block;
+    
+}
+
+.bottom li {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-right: 1px solid #747474;
+
+}
+
+.bottom .last {
+    border-right: none;
+    padding-right: 0;
+}
+.bottom .first {
+    padding-left: 0;
+}
+.bottom a {
+    color: #7b7b7b;
+}
+.bottom p {
+    line-height: 28px;
+}
+.p1 {
+    margin-top: 8px;
+}

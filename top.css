@@ -1,0 +1,42 @@
+
+.top {
+    height: 103px;
+    text-align: right;
+    font-size: 0;
+}
+.top h1 {
+    width: 248px;
+    height: 56px;
+    margin-top: 24px;
+    background: url(img/logo.gif) no-repeat;
+    float: left;
+    margin-right: 38px;
+}
+.top p {
+    margin-top: 28px;
+    font-size: 12px;
+    font-style: italic;
+    float: left;
+    line-height: 26px;
+    background: url(img/line.gif)no-repeat left center;
+    padding-left: 26px;
+    color: #999;
+}
+.top ul {
+    float: right;
+}
+.top li {
+    float: left;
+    margin-top: 31px;
+    height: 72px;
+    width: 88px;
+    font-size: 12px;
+    line-height: 72px;
+    text-align: center;
+}
+.top li:hover a {
+    color: white;   
+}
+.top li:hover {
+    background-color: #f75a53;
+}

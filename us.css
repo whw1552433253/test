@@ -1,0 +1,116 @@
+/* banner */
+.banner {
+    height: 200px;
+    background: url(img/banner2.png);
+}
+
+.banner1 h2 {
+    padding-top: 68px;
+    display: inline-block;
+    color: white;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.banner1 .span1 {
+    color: #ffb29b;
+    font-size: 17px;
+}
+
+.banner1 .span2 {
+    font-size: 12px;
+    color: #ffb29b;
+}
+
+.banner1 h3 {
+    display: inline-block;
+    font-size: 12px;
+    color: white;
+}
+
+.list {
+    background-color: #f7f7f7;
+    height: 60px;
+
+}
+.list1 p {
+    padding-top: 24px;
+    float: right;
+}
+.list1 p span {
+    margin-left: 14px;
+    font-size: 11px;
+}
+
+/* 关于我们 */
+.about img {
+    width: 354px;
+    height: 230px;
+    float: left;
+    margin-top: 90px;
+}
+
+.about dl {
+    margin-top: 94px;
+    width: 735px;
+    float: left;
+    margin-left: 50px;
+    height: 220px;
+    border-bottom: 1px solid #999;
+}
+.about dl dt {
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+.about dl dd {
+    line-height: 30px;
+    font-size: 12px;
+}
+/* 企业使命 */
+.mission {
+    height: 374px;
+    width: 1140px;
+    border-bottom: 1px solid #999;
+}
+.mission .main {
+    margin-right: -60px;
+}
+.mission h3 {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 14px;
+    color: #999;
+    margin-bottom: 35px;
+}
+
+.mission .left, .mission .center, .mission .right {
+    height: 274px;
+    width: 340px;
+    float: left;
+    margin-right: 60px;
+}
+.mission .left p, .mission .center p, .mission .right p {
+    margin-top: 33px;
+    text-align: center;
+}
+
+/* 办公环境 */
+
+.envir .main {
+    margin-right: -60px;
+    margin-bottom: 55px;
+}
+.envir h3 {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 14px;
+    color: #999;
+    margin-bottom: 35px;
+}
+.envir ul li {
+    float: left;
+    margin-right: 60px;
+    margin-bottom: 60px;
+}
+
+
+
